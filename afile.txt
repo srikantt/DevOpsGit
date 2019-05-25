@@ -1,2 +1,2 @@
-First line of Git-1
+First line of Git
 Second line of Git
